@@ -59,6 +59,8 @@ Why ratings was not considered for normalization?
 
 Rating is not a reliable factor as a movie can be highly rated if the number of vote counts are less. Say we have a movie with
 10 vote counts and each of them votes the highest possible rating (say 10) then the movie rating would be very high (10 in this case).
-So, a possible could be to consider only if we have a considerable amount of vote counts but agin in my case I was satsified
+Yes, we could have condition like to consider it only if it cross the vote count threshold limit but agin in my case I was satsified
 with the results and hence did not consider this parameter.
+Maybe a feature for the next version?
+:)
 
