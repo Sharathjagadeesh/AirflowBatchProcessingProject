@@ -41,7 +41,7 @@ where normalized_vote_count is...
 normalized_vote_count = (vote_count - min_vote_count) / (max_vote_count - min_vote_count)
 
 
-Well, now we have a normalized_score which can be useful. Please note that I have multipled the numerator with an additional constant 
+Well, now we have a normalized_score which can be useful. Please note that a constant has been added to the normalized score of TMDB 
 using the concept of "Bayesian weighting". This constant was derived as follows: 
 
 k= ∑(IMDbi) / COUNT(IMDbi)
