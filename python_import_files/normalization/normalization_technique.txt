@@ -1,0 +1,64 @@
+Why normaliztion?
+
+Since, I am taking the API data from TMDB and IMDB seperately there could be different metrics that could be used 
+to calcualte how popular a movie is?
+Each API uses its own formula to determine how popular a movie is. Without normaliztion we would get inconsistent scores 
+which cannot be used to analyse further or in other words they cannot be used to get insights what so ever.
+
+Then what is the Solution?
+
+offcourse NORMALIZATION is the Solution.
+
+How normaliztion works here?
+
+I have used the concept of "WEIGHTS". Basically, I have taken the max popularity and min popularity across the entire dataset and 
+performed a row wise comparssion for the individual popularity weight.
+
+formula:
+
+normalized_popularity = (popularity - min_popularity) / (max_popularity - min_popularity)
+
+This formla is appiled for each and every row in the dataset.
+
+But there is a catch!!
+
+Normalizing the popularity alone does not give us the true normalized score. There is one more parameter we need to consider. 
+Well atleast for the data to be useable. That is......
+You guessed it right the number of "VOTE COUNTS". Even popularity by itself is a composite metric. So using vote count as a 
+juding parameter helps to takle our problem more effectively. So, I have normalized even the vote counts.
+
+new improved formula for TMDB:
+
+normalized_score =( (popularity - min_popularity) * (normalized_vote_count) )/ (max_popularity - min_popularity) + k
+where normalized_vote_count is...
+
+normalized_vote_count = (vote_count - min_vote_count) / (max_vote_count - min_vote_count)
+
+new improved formula for IMDB:
+
+normalized_score = ((metascore) * normalized_vote_count ) / 100
+where normalized_vote_count is...
+normalized_vote_count = (vote_count - min_vote_count) / (max_vote_count - min_vote_count)
+
+
+Well, now we have a normalized_score which can be useful. Please note that I have multipled the numerator with an additional constant 
+using the concept of "Bayesian weighting". This constant was derived as follows: 
+
+k= ∑(IMDbi) / COUNT(IMDbi)
+​
+It was observed that the IMDB scores are usually higher than TMDB as the IMDB websites were very popular. Therefore, the addition
+of the constant is crucial.
+
+However, please note that the addition of the constant took place at the "merge and normalize" task as 
+we need the whole data in order to calaculate the constant.
+
+When I testest it out I was satisfied with the normalized data and to my 
+SUPRISE I was able to get the same normalized score for the same movie in both IMDB and TMDB dataset!!
+
+Why ratings was not considered for normalization?
+
+Rating is not a reliable factor as a movie can be highly rated if the number of vote counts are less. Say we have a movie with
+10 vote counts and each of them votes the highest possible rating (say 10) then the movie rating would be very high (10 in this case).
+So, a possible could be to consider only if we have a considerable amount of vote counts but agin in my case I was satsified
+with the results and hence did not consider this parameter.
+

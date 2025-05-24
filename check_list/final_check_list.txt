@@ -1,0 +1,6 @@
+This file contains the things that needs to be checked before deploying the project
+
+1. Make sure you have used airflow accessable paths while giving the file path.
+2. In mysql stage, remove DROP TABLE command as we want the dataset to contain old records as well.
+3. Make sure you have used today while accessing the files not a predefined date.
+4. Update the yaml file to only include the things which are nesssecary.

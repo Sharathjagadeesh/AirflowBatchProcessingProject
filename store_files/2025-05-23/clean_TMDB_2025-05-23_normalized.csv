@@ -1,0 +1,86 @@
+source,movie_id,title,media_type,is_adult,release_date,languages,genres,rating,vote_count,metascore,popularity,runtime,imdb_movie_id,normalized_score
+TMDB,1098006,Fountain of Youth,movie,False,2025-05-19,en,"['Adventure', 'Fantasy', 'Mystery']",7.8,4,,10.6769,,tt27075958,0.0
+TMDB,1232546,Until Dawn,movie,False,2025-04-23,en,"['Horror', 'Mystery']",6.2,191,,31.9657,,tt30955489,0.02
+TMDB,1001414,Fear Street: Prom Queen,movie,False,2025-05-22,en,"['Horror', 'Thriller']",6.8,4,,7.2327,,tt31433402,0.0
+TMDB,552524,Lilo & Stitch,movie,False,2025-05-17,en,"['Family', 'Comedy', 'Sci-Fi']",7.2,57,,205.7592,,tt11655566,0.04
+TMDB,574475,Final Destination Bloodlines,movie,False,2025-05-09,en,"['Horror', 'Mystery']",7.2,331,,528.9583,,tt9619824,0.67
+TMDB,575265,Mission: Impossible - The Final Reckoning,movie,False,2025-05-15,en,"['Action', 'Adventure', 'Thriller']",7.1,179,,267.7424,,tt9603208,0.18
+TMDB,950387,A Minecraft Movie,movie,False,2025-03-31,en,"['Family', 'Comedy', 'Adventure', 'Fantasy', 'Action']",6.5,1347,,700.0166,,tt3566834,3.62
+TMDB,896536,The Legend of Ochi,movie,False,2025-04-18,en,"['Fantasy', 'Adventure', 'Family']",6.0,53,,120.7911,,tt8866456,0.02
+TMDB,1233413,Sinners,movie,False,2025-04-16,en,"['Horror', 'Thriller']",7.57,754,,115.2351,,tt31193180,0.33
+TMDB,986056,Thunderbolts*,movie,False,2025-04-30,en,"['Action', 'Sci-Fi', 'Adventure']",7.469,950,,163.71,,tt20969586,0.59
+TMDB,1249289,Alarum,movie,False,2025-01-16,en,"['Action', 'Crime', 'Thriller']",5.74,277,,27.8696,,tt31456973,0.03
+TMDB,447273,Snow White,movie,False,2025-03-12,en,"['Family', 'Fantasy']",4.314,902,,273.4646,,tt6208148,0.95
+TMDB,822119,Captain America: Brave New World,movie,False,2025-02-12,en,"['Action', 'Thriller', 'Sci-Fi']",6.11,1879,,120.1987,,tt14513804,0.86
+TMDB,575264,Mission: Impossible - Dead Reckoning Part One,movie,False,2023-07-08,en,"['Action', 'Adventure', 'Thriller']",7.534,4244,,70.2479,,tt9603212,1.13
+TMDB,954,Mission: Impossible,movie,False,1996-05-22,en,"['Adventure', 'Action', 'Thriller']",6.998,9219,,46.1066,,tt0117060,1.6
+TMDB,1197306,A Working Man,movie,False,2025-03-26,en,"['Action', 'Crime', 'Thriller']",6.7,898,,308.2204,,tt9150192,1.06
+TMDB,353081,Mission: Impossible - Fallout,movie,False,2018-07-13,en,"['Action', 'Adventure']",7.4,8496,,33.0906,,tt4912910,1.05
+TMDB,1319738,We Girls,movie,False,2025-04-04,zh,"['Drama', 'Crime']",5.0,1,,0.9208,,tt33014921,0.0
+TMDB,1126166,Flight Risk,movie,False,2025-01-22,en,"['Action', 'Thriller']",6.116,730,,57.6409,,tt10078772,0.16
+TMDB,696506,Mickey 17,movie,False,2025-02-28,en,"['Sci-Fi', 'Comedy', 'Adventure']",6.904,1964,,38.2489,,tt12299608,0.28
+TMDB,1011477,Karate Kid: Legends,movie,False,2025-05-08,en,"['Action', 'Adventure', 'Drama']",7.7,34,,84.6847,,tt1674782,0.01
+TMDB,11544,Lilo & Stitch,movie,False,2002-06-21,en,"['Animation', 'Family', 'Comedy']",7.5,6470,,67.0913,,tt0275847,1.65
+TMDB,157336,Interstellar,movie,False,2014-11-05,en,"['Adventure', 'Drama', 'Sci-Fi']",8.455,37146,,35.3042,,tt0816692,4.92
+TMDB,177677,Mission: Impossible - Rogue Nation,movie,False,2015-07-23,en,"['Action', 'Adventure']",7.2,9076,,24.0959,,tt2381249,0.81
+TMDB,1241436,Warfare,movie,False,2025-04-09,en,"['War', 'Action']",7.242,403,,267.6585,,tt31434639,0.41
+TMDB,9532,Final Destination,movie,False,2000-03-17,en,['Horror'],6.615,5961,,89.1441,,tt0195714,2.02
+TMDB,55779,Final Destination 5,movie,False,2011-08-12,en,"['Horror', 'Mystery']",6.123,3609,,78.011,,tt1622979,1.07
+TMDB,56292,Mission: Impossible - Ghost Protocol,movie,False,2011-12-07,en,"['Action', 'Thriller', 'Adventure']",7.1,10127,,30.3989,,tt1229238,1.15
+TMDB,11,Star Wars,movie,False,1977-05-25,en,"['Adventure', 'Action', 'Sci-Fi']",8.205,21157,,27.321,,tt0076759,2.15
+TMDB,955,Mission: Impossible II,movie,False,2000-05-24,en,"['Adventure', 'Action', 'Thriller']",6.1,6988,,22.5738,,tt0120755,0.58
+TMDB,1082424,Jane Austen Wrecked My Life,movie,False,2025-01-22,fr,"['Comedy', 'Romance', 'Drama']",6.9,18,,6.0333,,tt31112509,0.0
+TMDB,956,Mission: Impossible III,movie,False,2006-04-25,en,"['Adventure', 'Action', 'Thriller']",6.744,7064,,23.7505,,tt0317919,0.62
+TMDB,1137350,The Phoenician Scheme,movie,False,2025-05-23,en,"['Drama', 'Comedy', 'Crime']",8.0,1,,13.6977,,tt30840798,0.0
+TMDB,1233575,Black Bag,movie,False,2025-03-12,en,"['Thriller', 'Mystery', 'Drama']",6.322,542,,19.577,,tt30988739,0.04
+TMDB,926008,The Beanie Bubble,movie,False,2023-07-21,en,"['Comedy', 'Drama']",6.43,128,,2.178,,tt17007120,0.0
+TMDB,1249213,Drop,movie,False,2025-04-10,en,"['Mystery', 'Thriller']",6.519,336,,46.0471,,tt32149847,0.06
+TMDB,9358,Final Destination 2,movie,False,2003-01-31,en,"['Horror', 'Mystery']",6.274,4301,,57.4889,,tt0309593,0.94
+TMDB,1195506,Novocaine,movie,False,2025-03-12,en,"['Action', 'Comedy', 'Thriller']",6.9,776,,60.1962,,tt29603959,0.18
+TMDB,627725,The Banker,movie,False,2020-03-06,en,['Drama'],7.6,1003,,20.6253,,tt6285944,0.08
+TMDB,668489,Havoc,movie,False,2025-04-25,en,"['Action', 'Crime', 'Thriller']",6.546,676,,109.7973,,tt14123284,0.28
+TMDB,9286,Final Destination 3,movie,False,2006-02-09,en,"['Horror', 'Mystery']",6.1,4076,,51.335,,tt0414982,0.79
+TMDB,870028,The Accountant²,movie,False,2025-04-23,en,"['Crime', 'Thriller', 'Action']",7.1,170,,43.8046,,tt7068946,0.03
+TMDB,671,Harry Potter and the Philosopher's Stone,movie,False,2001-11-16,en,"['Adventure', 'Fantasy']",7.902,28220,,28.4548,,tt0241527,2.99
+TMDB,1151039,Nonnas,movie,False,2025-05-01,en,['Comedy'],6.756,170,,33.9626,,tt28309594,0.02
+TMDB,1433719,High Ground,movie,False,2025-03-17,en,"['Thriller', 'Crime', 'Action']",5.0,17,,2.2202,,tt35669717,0.0
+TMDB,9476,A Knight's Tale,movie,False,2001-05-11,en,"['Adventure', 'Drama', 'Romance', 'Action']",6.87,3143,,7.8652,,tt0183790,0.08
+TMDB,238,The Godfather,movie,False,1972-03-14,en,"['Drama', 'Crime']",8.686,21452,,33.2112,,tt0068646,2.67
+TMDB,1064213,Anora,movie,False,2024-10-14,en,"['Drama', 'Comedy', 'Romance']",7.051,2179,,31.685,,tt28607951,0.26
+TMDB,1020414,Peter Pan's Neverland Nightmare,movie,False,2025-01-13,en,"['Horror', 'Thriller', 'Fantasy']",5.205,78,,32.7335,,tt21955520,0.01
+TMDB,765897,The Unbreakable Boy,movie,False,2025-02-20,en,"['Family', 'Drama']",7.36,50,,8.9663,,tt5181260,0.0
+TMDB,1289088,Happy Monday(s),movie,False,2025-02-20,th,"['Comedy', 'Romance', 'Fantasy', 'Drama']",6.5,2,,2.5875,,tt35875750,0.0
+TMDB,19912,The Final Destination,movie,False,2009-08-26,en,"['Horror', 'Mystery']",5.604,3446,,51.4545,,tt1144884,0.67
+TMDB,170,28 Days Later,movie,False,2002-10-31,en,"['Horror', 'Thriller', 'Sci-Fi']",7.236,7111,,19.5429,,tt0289043,0.51
+TMDB,1013601,The Alto Knights,movie,False,2025-03-14,en,"['Crime', 'Drama', 'History']",6.239,174,,12.9414,,tt21815562,0.01
+TMDB,1251621,Waves,movie,False,2024-08-01,cs,"['Thriller', 'Drama', 'History']",7.9,28,,1.532,,tt27587485,0.0
+TMDB,1153714,Death of a Unicorn,movie,False,2025-03-27,en,"['Horror', 'Fantasy', 'Comedy']",6.473,240,,81.3066,,tt28443655,0.07
+TMDB,533535,Deadpool & Wolverine,movie,False,2024-07-24,en,"['Action', 'Comedy', 'Sci-Fi']",7.595,7244,,48.3676,,tt6263850,1.32
+TMDB,19995,Avatar,movie,False,2009-12-15,en,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",7.59,32244,,25.2722,,tt0499549,3.02
+TMDB,1284120,The Ugly Stepsister,movie,False,2025-03-07,no,"['Horror', 'Drama']",6.696,51,,43.4241,,tt29344903,0.01
+TMDB,438631,Dune,movie,False,2021-09-15,en,"['Sci-Fi', 'Adventure']",7.781,13548,,25.1618,,tt1160419,1.26
+TMDB,299534,Avengers: Endgame,movie,False,2019-04-24,en,"['Adventure', 'Sci-Fi', 'Action']",8.2,26349,,20.3024,,tt4154796,1.97
+TMDB,603,The Matrix,movie,False,1999-03-31,en,"['Action', 'Sci-Fi']",8.226,26387,,29.4557,,tt0133093,2.9
+TMDB,549509,The Brutalist,movie,False,2024-12-20,en,['Drama'],7.027,1070,,15.9686,,tt8999762,0.06
+TMDB,762509,Mufasa: The Lion King,movie,False,2024-12-18,en,"['Adventure', 'Family', 'Animation']",7.398,2120,,84.0314,,tt13186482,0.68
+TMDB,1128752,Bird,movie,False,2024-11-08,en,"['Drama', 'Fantasy']",7.3,136,,6.7849,,tt28277817,0.0
+TMDB,1093237,Hurry Up Tomorrow,movie,False,2025-05-14,en,"['Thriller', 'Music']",5.383,30,,25.16,,tt26927452,0.0
+TMDB,597,Titanic,movie,False,1997-11-18,en,"['Drama', 'Romance']",7.9,25990,,31.1822,,tt0120338,3.03
+TMDB,245891,John Wick,movie,False,2014-10-22,en,"['Action', 'Thriller']",7.444,19693,,12.694,,tt2911666,0.89
+TMDB,98,Gladiator,movie,False,2000-05-04,en,"['Action', 'Drama', 'Adventure']",8.22,19693,,22.2586,,tt0172495,1.62
+TMDB,68721,Iron Man 3,movie,False,2013-04-18,en,"['Action', 'Adventure', 'Sci-Fi']",6.93,22562,,14.0116,,tt1300854,1.14
+TMDB,1227128,Raid 2,movie,False,2025-05-01,hi,"['Crime', 'Drama', 'Thriller']",6.286,7,,7.8755,,tt28089700,0.0
+TMDB,603692,John Wick: Chapter 4,movie,False,2023-03-22,en,"['Action', 'Thriller', 'Crime']",7.724,7067,,24.3117,,tt10366206,0.64
+TMDB,1175106,Apple Music Live: Dominic Fike,movie,False,2023-09-06,en,['Music'],8.0,1,,1.5868,,None,0.0
+TMDB,329,Jurassic Park,movie,False,1993-06-11,en,"['Adventure', 'Sci-Fi']",8.0,16752,,10.9223,,tt0107290,0.65
+TMDB,330459,Rogue One: A Star Wars Story,movie,False,2016-12-14,en,"['Action', 'Adventure', 'Sci-Fi']",7.496,15610,,20.194,,tt3748528,1.16
+TMDB,1339772,The Devil's Bride,movie,False,2025-01-16,id,"['Horror', 'Thriller']",7.7,3,,8.8293,,tt33051946,0.0
+TMDB,1297860,Inheritance,movie,False,2025-01-24,en,['Thriller'],5.9,22,,7.3712,,tt31050620,0.0
+TMDB,1895,Star Wars: Episode III - Revenge of the Sith,movie,False,2005-05-17,en,"['Adventure', 'Action', 'Sci-Fi']",7.443,14111,,15.6326,,tt0121766,0.8
+TMDB,1306542,Pale Horse,movie,False,2024-07-30,en,['Horror'],3.5,2,,1.3554,,tt4382736,0.0
+TMDB,799766,Better Man,movie,False,2024-12-06,en,"['Music', 'Drama']",7.8,499,,10.3839,,tt14260836,0.02
+TMDB,361743,Top Gun: Maverick,movie,False,2022-05-21,en,"['Action', 'Drama']",8.176,9850,,29.6236,,tt1745960,1.09
+TMDB,1726,Iron Man,movie,False,2008-04-30,en,"['Action', 'Sci-Fi', 'Adventure']",7.652,26970,,19.8904,,tt0371746,1.97
+TMDB,1226406,Love Hurts,movie,False,2025-02-06,en,"['Action', 'Comedy', 'Romance']",5.899,188,,20.9997,,tt30788842,0.01
+TMDB,694,The Shining,movie,False,1980-05-23,en,"['Horror', 'Thriller']",8.212,17934,,14.3179,,tt0081505,0.93
+TMDB,634649,Spider-Man: No Way Home,movie,False,2021-12-15,en,"['Action', 'Adventure', 'Sci-Fi']",7.946,20765,,26.3859,,tt10872600,2.04

@@ -1,0 +1,10 @@
+numpy==1.23.5
+apache-airflow==2.6.3
+apache-airflow-providers-mysql==5.5.4  # Ensure compatibility
+apache-airflow-providers-apache-beam
+mysqlclient
+openpyxl==3.1.2
+pyspark==3.2.4
+pandas==1.5.3
+pyarrow==10.0.1
+kafka-python
