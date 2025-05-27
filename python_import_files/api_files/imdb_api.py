@@ -8,8 +8,6 @@ def get_imdb_api():
     today = datetime.date(pendulum.today(tz="utc"))
     logging.basicConfig(level=logging.INFO)
 
-    rapidapi_key_local = r"D:\Data Engineering\Projects\BatchProcessingProject\Airflow\docker-airflow-master\credentials\rapidapi_key.txt"
-    output_rapidapi_imdb_file_local = fr"D:\Data Engineering\Projects\BatchProcessingProject\Airflow\docker-airflow-master\store_files\rawDataIMDB_{today}.csv"
     rapidapi_key_airflow = "/opt/airflow/credentials/rapidapi_key.txt"
     output_rapidapi_imdb_file_airflow = f"/opt/airflow/store_files/rawDataIMDB_{today}.csv"
     
