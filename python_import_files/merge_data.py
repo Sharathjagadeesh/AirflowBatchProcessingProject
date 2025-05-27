@@ -10,9 +10,6 @@ def merge_data_fn():
 
     today = datetime.date(pendulum.today(tz="UTC"))
 
-    clean_imdb_data_file_local = fr"D:\Data Engineering\Projects\BatchProcessingProject\Airflow\docker-airflow-master\store_files\clean_IMDB_{today}_normalized.csv"
-    clean_tmdb_data_file_local = fr"D:\Data Engineering\Projects\BatchProcessingProject\Airflow\docker-airflow-master\store_files\clean_TMDB_{today}_normalized.csv"
-    output_file_merged_local = fr"D:\Data Engineering\Projects\BatchProcessingProject\Airflow\docker-airflow-master\store_files\merged_data_clean_{today}_.csv"
 
     clean_imdb_data_file_airflow = f"/opt/airflow/store_files/clean_IMDB_{today}_normalized.csv"
     clean_tmdb_data_file_airflow = f"/opt/airflow/store_files/clean_TMDB_{today}_normalized.csv"
