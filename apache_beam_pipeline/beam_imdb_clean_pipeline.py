@@ -7,9 +7,7 @@ def beam_imdb_clean_pipeline_fn():
 
     today = datetime.date(pendulum.today(tz="UTC"))
 
-    input_file_path_local = fr"D:\Data Engineering\Projects\BatchProcessingProject\Airflow\docker-airflow-master\store_files\rawDataIMDB_{today}.csv"
     input_file_path_airflow = f"/opt/airflow/store_files/rawDataIMDB_{today}.csv"
-    output_file_path_local = fr"D:\Data Engineering\Projects\BatchProcessingProject\Airflow\docker-airflow-master\store_files\clean_IMDB_{today}"
     output_file_path_airflow = f"/opt/airflow/store_files/clean_IMDB_{today}"
 
     options = beam.options.pipeline_options.PipelineOptions(auto_unique_lables=True)
