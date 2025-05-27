@@ -139,7 +139,7 @@ This data engineering project simulates a real-world batch processing data pipel
 
 **Sharath**  
 Data Engineer | Real-time Streaming Enthusiast  | ETL | Batch Processing
-📫 [LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sharath-j-503382219/))
+📫 [LinkedIn Profile](https://www.linkedin.com/in/sharath-j-503382219/)
 
 ---
 
