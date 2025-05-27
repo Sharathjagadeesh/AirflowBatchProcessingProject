@@ -15,9 +15,6 @@ def pyspark_transform_fn():
 
     spark = SparkSession.builder.master("local[*]").appName("PysparkTransformAirflowProject").getOrCreate()
 
-    merged_file_path_local = fr"D:\Data Engineering\Projects\BatchProcessingProject\Airflow\docker-airflow-master\store_files\merged_data_clean_{today}_.csv"
-    output_file_path_local = fr"D:\Data Engineering\Projects\BatchProcessingProject\Airflow\docker-airflow-master\store_files\pyspark_output_{today}_.xlsx"
-
     merged_file_path_airflow = f"/opt/airflow/store_files/merged_data_clean_{today}_.csv"
     output_file_path_airflow = f"/opt/airflow/store_files/pyspark_output_{today}_.xlsx"
 
