@@ -129,6 +129,12 @@ This data engineering project simulates a real-world batch processing data pipel
 
 ---
 
+## 🔮 Future Scope
+
+- We can deploy this Docker container on any cloud service, such as Azure (using Container Apps). This way, our pipeline runs daily and processes the output without human intervention.
+  
+--- 
+
 **Explore my other projects**
 
 - [Real Time Stock Data Streaming Pipeline project](https://github.com/Sharathjagadeesh/RealTimeStreamingProject.git)
