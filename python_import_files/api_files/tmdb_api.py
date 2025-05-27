@@ -8,8 +8,6 @@ def get_tmdb_api():
     today = datetime.date(pendulum.today(tz="utc"))
     logging.basicConfig(level=logging.INFO)
 
-    token_tmdb_api_key_local = r"D:\Data Engineering\Projects\BatchProcessingProject\Airflow\docker-airflow-master\credentials\token_api_tmdb.txt"
-    output_tmdb_file_local = fr"D:\Data Engineering\Projects\BatchProcessingProject\Airflow\docker-airflow-master\store_files\rawDataTMDB_{today}.csv"
     token_tmdb_api_key_airflow = "/opt/airflow/credentials/token_api_tmdb.txt"
     output_tmdb_file_airflow = f"/opt/airflow/store_files/rawDataTMDB_{today}.csv"
     
