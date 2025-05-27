@@ -110,12 +110,6 @@ This data engineering project simulates a real-world batch processing data pipel
 - 🐳 Fully Dockerized, reproducible, and ready-to-deploy setup
 
 ---
-## 📞 Contact Me
-
-- If you like my content or you want to suggest any changes, I would be happy to connect.
-- To connect with my on linkedin, please click [here](https://www.linkedin.com/in/sharath-j-503382219/)
-
----
 
 ## 📊 PowerBI Dashboard
 
@@ -146,6 +140,13 @@ This data engineering project simulates a real-world batch processing data pipel
 **Sharath**  
 Data Engineer | Real-time Streaming Enthusiast  | ETL | Batch Processing
 📫 [LinkedIn Profile](https://www.linkedin.com/in/sharath-j-503382219/)
+
+---
+
+## 📞 Contact Me
+
+- If you like my content or you want to suggest any changes, I would be happy to connect.
+- To connect with my on linkedin, please click [here](https://www.linkedin.com/in/sharath-j-503382219/)
 
 ---
 
