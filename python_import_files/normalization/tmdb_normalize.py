@@ -7,9 +7,7 @@ def normalize_tmdb_fn():
 
     today = datetime.date(pendulum.today(tz="UTC"))
 
-    input_file_path_local = fr"D:\Data Engineering\Projects\BatchProcessingProject\Airflow\docker-airflow-master\store_files\clean_TMDB_{today}-00000-of-00001.txt"
     input_file_path_airflow  = f"/opt/airflow/store_files/clean_TMDB_{today}-00000-of-00001.txt"
-    output_file_path_local = fr"D:\Data Engineering\Projects\BatchProcessingProject\Airflow\docker-airflow-master\store_files\clean_TMDB_{today}_normalized.csv"
     output_file_path_airflow = f"/opt/airflow/store_files/clean_TMDB_{today}_normalized.csv"
 
     global_popularity = []
