@@ -129,6 +129,20 @@ This data engineering project simulates a real-world batch processing data pipel
 
 ---
 
+**Explore my other projects**
+
+- [Real Time Stock Data Streaming Pipeline project](https://github.com/Sharathjagadeesh/RealTimeStreamingProject.git)
+
+---
+
+## 🙋 Author
+
+**Sharath**  
+Data Engineer | Real-time Streaming Enthusiast  | ETL | Batch Processing
+📫 [LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sharath-j-503382219/))
+
+---
+
 # docker-airflow from puckel
 
 ## The below details could be helpful if you want to replicate this project by installing docker and the services used in this project.
