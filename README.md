@@ -21,7 +21,7 @@ This data engineering project simulates a real-world batch processing data pipel
 
 ## 🔄 Pipeline Flow
 
-![image](https://github.com/user-attachments/assets/99ef3637-775f-4ff7-bad1-500a080d93ca)
+![image](https://raw.githubusercontent.com/Sharathjagadeesh/AirflowBatchProcessingProject/refs/heads/main/OutputImages/pipeline_flow.png)
 
 
 ---
