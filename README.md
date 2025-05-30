@@ -115,11 +115,11 @@ This data engineering project simulates a real-world batch processing data pipel
 
 - Main Dashboard Snapshot
   
-  ![image](https://github.com/user-attachments/assets/c0b92ea6-d2f9-420f-9759-21fea5241a0b)
+  ![image](https://raw.githubusercontent.com/Sharathjagadeesh/AirflowBatchProcessingProject/refs/heads/main/OutputImages/dashboard_1.png)
 
 - Analytics Dashboard Snapshot
   
-  ![image](https://github.com/user-attachments/assets/c204589f-f91c-46b4-93c8-c0ed36bbb741)
+  ![image](https://raw.githubusercontent.com/Sharathjagadeesh/AirflowBatchProcessingProject/refs/heads/main/OutputImages/dashboard_2.png)
 
 ---
 
