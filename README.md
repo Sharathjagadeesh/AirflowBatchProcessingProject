@@ -43,7 +43,7 @@ This data engineering project simulates a real-world batch processing data pipel
 - Merged the normalized data into a single CSV file with a unified schema.
 - Applied a **normalization technique** to compute a `normalized_score` for each movie.
 - Normalized scores were calculated separately for TMDB and IMDb before merging, and then recalculated after merging to ensure consistency.
-- Details of the normalization methodology are documented in `normalization.txt`.
+- Details of the normalization methodology are documented in [normalization.txt](https://github.com/Sharathjagadeesh/AirflowBatchProcessingProject/blob/main/python_import_files/normalization/normalization_technique.txt).
 - If we have less than 10 records in total then we will not trigger the downstream task insted an email will be sent using the `Email operator`.
   *_please note that the email operator is currently a dummy operator. I have removed this operator here due to security reasons._
 
